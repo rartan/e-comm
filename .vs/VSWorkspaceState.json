@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\collection-item",
+    "\\src\\components\\sign-in",
+    "\\src\\components\\sign-up",
+    "\\src\\firebase",
+    "\\src\\pages",
+    "\\src\\pages\\homepage",
+    "\\src\\pages\\shop",
+    "\\src\\pages\\sign-in-and-sign-up"
+  ],
+  "SelectedNode": "\\src\\App.js",
+  "PreviewInSolutionExplorer": false
+}
