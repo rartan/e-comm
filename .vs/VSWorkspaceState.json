@@ -2,15 +2,19 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\assets",
     "\\src\\components",
-    "\\src\\components\\collection-preview",
-    "\\src\\components\\custom-button",
-    "\\src\\components\\directory",
-    "\\src\\components\\form-input",
-    "\\src\\components\\header",
-    "\\src\\components\\menu-item",
-    "\\src\\components\\sign-in"
+    "\\src\\components\\cart-dropdown",
+    "\\src\\components\\cart-icon",
+    "\\src\\components\\cart-item",
+    "\\src\\components\\checkout-item",
+    "\\src\\components\\collection-item",
+    "\\src\\components\\collections-overview",
+    "\\src\\components\\sign-up",
+    "\\src\\firebase",
+    "\\src\\pages",
+    "\\src\\pages\\checkout"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\src\\components\\sign-up",
   "PreviewInSolutionExplorer": false
 }
