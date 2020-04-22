@@ -11,10 +11,10 @@
     "\\src\\components\\collection-item",
     "\\src\\components\\collections-overview",
     "\\src\\components\\sign-up",
-    "\\src\\firebase",
     "\\src\\pages",
-    "\\src\\pages\\checkout"
+    "\\src\\pages\\checkout",
+    "\\src\\pages\\collection"
   ],
-  "SelectedNode": "\\src\\components\\sign-up",
+  "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
 }
