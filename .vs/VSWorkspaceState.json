@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\client\\src",
+    "\\client\\src\\assets",
+    "\\client\\src\\components",
+    "\\client\\src\\contexts",
+    "\\client\\src\\firebase",
+    "\\client\\src\\pages",
+    "\\client\\src\\providers",
+    "\\client\\src\\redux"
+  ],
+  "PreviewInSolutionExplorer": false
+}
