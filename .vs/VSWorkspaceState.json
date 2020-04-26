@@ -2,19 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\assets",
-    "\\src\\components",
-    "\\src\\components\\cart-dropdown",
-    "\\src\\components\\cart-icon",
-    "\\src\\components\\cart-item",
-    "\\src\\components\\checkout-item",
-    "\\src\\components\\collection-item",
-    "\\src\\components\\collections-overview",
-    "\\src\\components\\sign-up",
+    "\\src\\firebase",
     "\\src\\pages",
     "\\src\\pages\\checkout",
-    "\\src\\pages\\collection"
+    "\\src\\pages\\collection",
+    "\\src\\pages\\homepage",
+    "\\src\\redux",
+    "\\src\\redux\\cart",
+    "\\src\\redux\\directory",
+    "\\src\\redux\\shop"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\src\\firebase\\firebase.utils.js",
   "PreviewInSolutionExplorer": false
 }
