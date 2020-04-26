@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\firebase",
+    "\\src\\pages",
+    "\\src\\pages\\checkout",
+    "\\src\\pages\\collection",
+    "\\src\\pages\\homepage",
+    "\\src\\redux",
+    "\\src\\redux\\cart"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
