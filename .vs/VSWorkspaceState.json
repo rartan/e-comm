@@ -2,15 +2,18 @@
   "ExpandedNodes": [
     "",
     "\\client",
-    "\\client\\public",
     "\\client\\src",
-    "\\client\\src\\assets",
     "\\client\\src\\components",
-    "\\client\\src\\contexts",
-    "\\client\\src\\firebase",
-    "\\client\\src\\pages",
-    "\\client\\src\\providers"
+    "\\client\\src\\components\\cart-dropdown",
+    "\\client\\src\\components\\cart-icon",
+    "\\client\\src\\components\\cart-item",
+    "\\client\\src\\components\\checkout-item",
+    "\\client\\src\\redux",
+    "\\client\\src\\redux\\cart",
+    "\\client\\src\\redux\\directory",
+    "\\client\\src\\redux\\shop",
+    "\\client\\src\\redux\\user"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\client\\src\\firebase\\firebase.utils.js",
   "PreviewInSolutionExplorer": false
 }
