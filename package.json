@@ -16,7 +16,7 @@
     "dependencies": {
         "body-parser": "^1.18.3",
         "cors": "2.8.5",
-        "dotenv": "8.2.0",
+        "dotenv": "9.0.2",
         "express": "^4.16.4",
         "express-sslify": "^1.2.0",
         "stripe": "8.105.0"
